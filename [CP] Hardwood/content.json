@@ -1,0 +1,27 @@
+{
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [
+                "Carpenter",
+                "Items"
+            ],
+            "Entries": {
+                "Hardwood": {
+                    "Id": "709",
+                    "ItemId": "709",
+                    "Price": "450",
+                    "IgnoreShopPriceModifiers": true
+                }
+            },
+            "MoveEntries": [
+                { 
+                    "ID": "709", 
+                    "AfterID": "(O)388" 
+                }
+            ]		
+        }
+    ]
+}
