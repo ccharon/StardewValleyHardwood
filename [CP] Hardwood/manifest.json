@@ -1,0 +1,11 @@
+{
+    "Name": "Hardwood at carpenter's shop",
+    "Author": "ccharon",
+    "Version": "1.0.0",
+    "Description": "Hardwood is now sold at the carpenter's shop.",
+    "UniqueID": "ccharon.hardwood",
+    "UpdateKeys": ["GitHub:ccharon/StardewValleyHardwood"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
